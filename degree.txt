@@ -1,0 +1,11 @@
+degree sign - c
+i dont know the shortcut so i am using this.
+
+//  FOR JAVASCRIPT - THESE ARE THE MONTHS AND DAYS ;
+
+Base url = https://api.openweathermap.org/data/2.5/;
+
+Months  -  ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+
+
+Days - ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
